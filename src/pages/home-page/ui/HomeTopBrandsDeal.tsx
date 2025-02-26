@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function HomeTopBrandsDeal() {
 	return (
 		<section className='px-[100px] mt-[100px] mb-[100px]'>
