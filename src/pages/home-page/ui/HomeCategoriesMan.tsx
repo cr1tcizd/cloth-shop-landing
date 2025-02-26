@@ -1,4 +1,4 @@
-import ArrowRightIcon from './src/app/assets/arrowRight.svg?react'
+import ArrowRightIcon from '/src/app/assets/arrowRight.svg?react'
 
 export default function HomeCategoriesMan() {
 	return (
