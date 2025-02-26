@@ -1,4 +1,4 @@
-import ArrowRightIcon from '/src/app/assets/arrowRight.svg?react'
+import ArrowRightIcon from './src/app/assets/arrowRight.svg?react'
 
 export default function HomeCategoriesMan() {
 	return (
@@ -9,7 +9,7 @@ export default function HomeCategoriesMan() {
 			</div>
 			<div className='flex flex-wrap justify-between gap-y-[50px]'>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-1.jpg' alt='' />
+					<img src='./src/app/assets/men-1.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Shirts</b>
@@ -19,7 +19,7 @@ export default function HomeCategoriesMan() {
 					</div>
 				</div>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-2.jpg' alt='' />
+					<img src='./src/app/assets/men-2.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Printed T-Shirts</b>
@@ -29,7 +29,7 @@ export default function HomeCategoriesMan() {
 					</div>
 				</div>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-3.jpg' alt='' />
+					<img src='./src/app/assets/men-3.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Plain T-Shirt</b>
@@ -39,7 +39,7 @@ export default function HomeCategoriesMan() {
 					</div>
 				</div>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-4.jpg' alt='' />
+					<img src='./src/app/assets/men-4.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Polo T-Shirt</b>
@@ -49,7 +49,7 @@ export default function HomeCategoriesMan() {
 					</div>
 				</div>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-5.jpg' alt='' />
+					<img src='./src/app/assets/men-5.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Hoodies & Sweetshirt</b>
@@ -59,7 +59,7 @@ export default function HomeCategoriesMan() {
 					</div>
 				</div>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-6.jpg' alt='' />
+					<img src='./src/app/assets/men-6.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Jeans</b>
@@ -69,7 +69,7 @@ export default function HomeCategoriesMan() {
 					</div>
 				</div>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-7.jpg' alt='' />
+					<img src='./src/app/assets/men-7.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Activewear</b>
@@ -79,7 +79,7 @@ export default function HomeCategoriesMan() {
 					</div>
 				</div>
 				<div className='w-[270px]'>
-					<img src='/src/app/assets/men-8.jpg' alt='' />
+					<img src='./src/app/assets/men-8.jpg' alt='' />
 					<div className='flex items-center justify-between mt-[15px]'>
 						<div>
 							<b className='text-[18px]'>Boxers</b>
